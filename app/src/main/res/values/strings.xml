@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="textView3">Write XML Code to Design like a bellow Activity by using ConstraintLayout and after complete upload your project to GitHub and put link bellow in solution box ? (ignore the Top Menu)</string>
+    <string name="textView">Camera</string>
+    <string name="textView4">Singapore</string>
+    <string name="textView2">Setting</string>
+
+</resources>
